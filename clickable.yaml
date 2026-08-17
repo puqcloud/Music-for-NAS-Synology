@@ -1,0 +1,6 @@
+clickable_minimum_required: 8.0
+builder: cmake
+build_args:
+  - -DCMAKE_BUILD_TYPE=Release
+scripts:
+  clean: rm -rf build .clickable *.click

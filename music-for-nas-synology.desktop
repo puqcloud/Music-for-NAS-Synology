@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Music for NAS Synology
+Comment=Unofficial Synology Audio client for Ubuntu Touch
+Exec=music-for-nas-synology.puqsoftware
+Icon=music-for-nas-synology.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+X-Ubuntu-Default-Department=Utility
